@@ -1,13 +1,30 @@
-# RSA Factoring Challenge :cat:
-This repo is just an attempt to read in and factorize a file of numbers.
+<div align="center"><img src="images/rsa_final.gif" width="700" height="300" />
 
-## Description of what each file shows:
-* factors - the program to factorize (Usage: time ./factors tests/test00)
-* tests/test00 - the file with the numbers
-### Environment
-* Language: Bash script
-* OS: Ubuntu 14.04 LTS
+# RSA - factoring challenge
 
-## Author :octocat:
+We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
+---
+
+# RESOURCES :books:
+
+</div>
+
+- [RSA](https://intranet.hbtn.io/rltoken/bkohLbiGqDEExwdQR0bcwA)
+- [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
+- [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
+
+
+## USAGE
+
+```
+./<script> <Test Case>
+```
+
+## KNOWN ISSUE :adhesive_bandage:
+
+ - Not complete, still working on the task
+
+### AUTHOR
+
+* [Nicks](https://github.com/shakiru137) :segun_cat:
